@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Victoria Partakki.
+- 👋 Hi, I’m Victoria Partakki. 
 - 👀 I’m interested in code, its impact, and its use in problem solving! 
 - 🌱 I’m currently learning python and R.
 - 📫 How to reach me: partakkivictoria@gmail.com 
